@@ -6,12 +6,12 @@ about Speech tasks such as Speech Recognition, VAD, Speaker Segmentation, etc.
 ## Labeling Tools
 
 
-  - :pencil: [Labelstudio (By Heartex)](https://github.com/heartexlabs/label-studio)
-  - :notebook: [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool)
+  - :pencil: [Labelstudio (By Heartex)](https://github.com/heartexlabs/label-studio) ![](https://img.shields.io/github/stars/heartexlabs/label-studio.svg?style=social)
+  - :notebook: [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) ![](https://img.shields.io/github/stars/UniversalDataTool/universal-data-tool.svg?style=social)
 
 ## Intro to Speech Processing
 
-  - [Librosa](https://librosa.org/doc/latest/index.html) - One of the most amazing libs to learn speech processing
+  - [Librosa](https://librosa.org/doc/latest/index.html) ![](https://img.shields.io/github/stars/librosa/librosa.svg?style=social) - One of the most amazing libs to learn speech processing
   - [Sound of AI - Valerio Velardo](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) - Youtube intro to the essence of speech processing
   
 ## Audio Datasets
