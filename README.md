@@ -11,12 +11,12 @@ about Speech tasks such as Speech Recognition, VAD, Speaker Segmentation, etc.
 
 ## Intro to Speech Processing
 
-  - [Librosa](https://librosa.org/doc/latest/index.html) ![](https://img.shields.io/github/stars/librosa/librosa.svg?style=social) - One of the most amazing libs to learn speech processing
-  - [Sound of AI - Valerio Velardo](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) - Youtube intro to the essence of speech processing
+  - :books: [Librosa](https://librosa.org/doc/latest/index.html) ![](https://img.shields.io/github/stars/librosa/librosa.svg?style=social) - One of the most amazing libs to learn speech processing
+  - :movie_camera: [Sound of AI - Valerio Velardo](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) - Youtube intro to the essence of speech processing
   
 ## Audio Datasets
 
-  - [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) - Urban sound noise dataset with ~10k samples, for speech denoise/enhancement
-  - [AMI Dataset](http://groups.inf.ed.ac.uk/ami/corpus/) - AMI Corpus contains a lot of meetings with multiple speakers, for diarization and speaker segmentation
+  - :notes: [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) - Urban sound noise dataset with ~10k samples, for speech denoise/enhancement
+  - :notes: [AMI Dataset](http://groups.inf.ed.ac.uk/ami/corpus/) - AMI Corpus contains a lot of meetings with multiple speakers, for diarization and speaker segmentation
   
 ## Speech Denoise
