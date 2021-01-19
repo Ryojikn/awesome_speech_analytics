@@ -8,10 +8,6 @@ about Speech tasks such as Speech Recognition, VAD, Speaker Segmentation, etc.
 
   - [Labelstudio (By Heartex)](https://github.com/heartexlabs/label-studio) 
   
-  
-  <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/heartexlabs/label-studio" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star heartexlabs/label-studio on GitHub">Star</a>
-
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<html>
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+</html>
